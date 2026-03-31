@@ -1,9 +1,9 @@
 <!doctype html>
 <html lang="es">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-  <title>Galaxia para ti</title>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+   <title>Galaxia para ti</title>
   <meta name="description" content="Galaxia interactiva de frases de cariño 💘">
   <meta property="og:title" content="Galaxia para ti">
   <meta property="og:description" content="Una galaxia interactiva con palabras de cariño 💖">
