@@ -28,7 +28,7 @@
 </head>
 <body>
 <canvas id="galaxy-canvas"></canvas>
-<div class="pill">Te Amo Muchote Mi Niña Pechocha💗</div>
+<div class="pill">Te Amo Mucho Mi Niña Pechocha💗</div>
 <div class="attribution">Base: tlanex · Adaptación para </div>
 <div id="err" class="error"></div>
 
